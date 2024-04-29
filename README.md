@@ -22,7 +22,7 @@ Güncel kod:
 ?>
 ```
 
-Ayrıca, JavaScript yorum satırlarını sunucu tarafında da yazma imkanımız var. Saldırıyı anlatım sayfasında bahsettiğimiz JavaScript Önemli yorum satırı, bir hacker tarafından geliştirdiğimiz sistemi hakkında bilgi toplamak için kullanılabilir. Bu tür riskleri önlemek için JavaScript içinde hassas bilgileri içeren önemli yorum satırlarını sunucu tarafında yazmak daha güvenli bir yaklaşım olabilir.
+Ayrıca, JavaScript yorum satırlarını sunucu tarafında da yazma imkanımız var. Saldırıyı [anlatım sayfasında](https://github.com/yasir723/hedef-ile-ilgili-bilgi-toplama) bahsettiğimiz JavaScript Önemli yorum satırı, bir hacker tarafından geliştirdiğimiz sistemi hakkında bilgi toplamak için kullanılabilir. Bu tür riskleri önlemek için JavaScript içinde hassas bilgileri içeren önemli yorum satırlarını sunucu tarafında yazmak daha güvenli bir yaklaşım olabilir.
 
 Eski kod:
 ```JavaScript
