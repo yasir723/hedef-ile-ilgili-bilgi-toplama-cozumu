@@ -1,6 +1,6 @@
 # Hedef ile İlgili Bilgi Toplama Saldırısının Çözümü
 
-Bu saldırıyı anlatım sayfasında bahsettiğimiz HTML ve JavaScript kodlarındaki yorum satırlarının potansiyel zararlarından söz ettik. Ancak bu yorum satırlarının, Hacker olarak değil de geliştirici olarak düşünerek, sistemde bulunmaması daha uygun olacaktır. İçinde hassas bilgileri içeren önemli yorum satırlarının istemci tarafında görünmemesi için, tehlikeli yorumları server tarafında yazmamız gerekmektedir.
+Bu saldırıyı [anlatım sayfasında](https://github.com/yasir723/hedef-ile-ilgili-bilgi-toplama) bahsettiğimiz HTML ve JavaScript kodlarındaki yorum satırlarının potansiyel zararlarından söz ettik. Ancak bu yorum satırlarının, Hacker olarak değil de geliştirici olarak düşünerek, sistemde bulunmaması daha uygun olacaktır. İçinde hassas bilgileri içeren önemli yorum satırlarının istemci tarafında görünmemesi için, tehlikeli yorumları server tarafında yazmamız gerekmektedir.
 
 HTML yorum satırların sunucu tarafında oluşturmak için kodu aşağıdaki gibi güncelleyebiliriz
 
