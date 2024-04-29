@@ -1,0 +1,1 @@
+# hedef-ile-ilgili-bilgi-toplama-cozumu
