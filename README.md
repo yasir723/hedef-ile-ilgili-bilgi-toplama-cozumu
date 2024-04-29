@@ -31,7 +31,7 @@ Eski kod:
     var urlParams = new URLSearchParams(window.location.search);
     var error = urlParams.get('error');
     
-    if (error != "") {
+    if (error.length != "") {
         alert(error);
     }
 </script>
@@ -47,7 +47,7 @@ Güncel kod:
     var urlParams = new URLSearchParams(window.location.search);
     var error = urlParams.get('error');
 
-    if (error != "") {
+    if (error.length != "") {
         alert(error);
     }
 </script>
