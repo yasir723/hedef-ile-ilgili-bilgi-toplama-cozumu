@@ -1,4 +1,4 @@
-# Hedef ile İlgili Bilgi Toplama Saldırısının Çözümü
+# Hedef ile İlgili Bilgi Toplama Saldırısının Çözümü (Solution of Gather information about Target)
 
 Bu saldırıyı [anlatım sayfası](https://github.com/yasir723/hedef-ile-ilgili-bilgi-toplama)nda bahsettiğimiz HTML ve JavaScript kodlarındaki yorum satırlarının potansiyel zararlarından söz ettik. Ancak bu yorum satırlarının, Hacker olarak değil de geliştirici olarak düşünerek, sistemde bulunmaması daha uygun olacaktır. İçinde hassas bilgileri içeren önemli yorum satırlarının istemci tarafında görünmemesi için, tehlikeli yorumları server tarafında yazmamız gerekmektedir.
 
